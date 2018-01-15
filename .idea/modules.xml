@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DragLayout2.iml" filepath="$PROJECT_DIR$/DragLayout2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/draglayout/draglayout.iml" filepath="$PROJECT_DIR$/draglayout/draglayout.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/draglayout.iml" filepath="$PROJECT_DIR$/draglayout.iml" />
->>>>>>> 1e10748d9479e3f88a427657c88de3992988ffbf
     </modules>
   </component>
 </project>
